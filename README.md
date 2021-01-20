@@ -4,7 +4,7 @@ This repository contains the matlab code for calculating CSS (Circadian Sleep Su
 1. CSS_package.m
 > The main file of this package. It calculates CSS and circadian necessary sleep for each sleep episodes of users by using the sleep patterns and the light profiles of users provided as Input1_sleep_light.csv and Input2_WASO_Main.csv. 
 2. Input1_sleep_light.csv
-> This file is the input of CSS_package which need to consist of the sleep pattern of user as the 1st column and the light profile of user as the 2nd column. See [the example for details](docs/Input1_sleep_light2.csv) 
+> This file is the input of CSS_package which need to consist of the sleep pattern of user as the 1st column and the light profile of user as the 2nd column. See [the example for details](Input1_sleep_light2.csv) 
 3. Input2_WASO_Main.csv
 >
 4. Sleep_make.m
