@@ -1,1 +1,1 @@
-# CSS
+# Computational package for calculating CSS
